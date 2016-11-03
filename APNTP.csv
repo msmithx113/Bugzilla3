@@ -1,0 +1,138 @@
+Flag,Description,Type,Part,Quantity,OptionGroup,OptionGroupPrompt,InstructionNote,ConfigurationSortOrder,InstructionSortOrder
+BOM,AP-02008-GA,K6x NTP100-GPS (General Atomics),Manufacture,1,,,,,
+Item,Add BF-00001-BLK,Raw Good,BF-00001-BLK,1,CASE,CASE,,1,11
+Item,Add HA-00020,Raw Good,HA-00020,2,,,,5,7
+Item,Add WH-00062,Raw Good,WH-00062,1,,,,6,8
+Item,Add AS-00005-GA,Raw Good,AS-00005-GA,1,,,,7,9
+Item,Add DL-00006,Raw Good,DL-00006,1,,,D16,13,14
+Item,Add PS-00021-R,Raw Good,PS-00021-R,1,Power,Power,,1,2
+Item,Add PS-00007,Raw Good,PS-00007,1,Power,Power,,2,3
+Item,Add HA-00006,Raw Good,HA-00006,1,,,,2,4
+Item,Add BF-00062,Raw Good,BF-00062,2,,,,3,5
+Item,Create AP-02008-GA,Finished Good,AP-02008-GA,1,,,,1,1
+Item,Add PS-Locking,Raw Good,PS-Locking,1,,,,4,6
+Item,Add DL-00029,Raw Good,DL-00029,1,,,D15,14,15
+Item,Add AC-01414,Raw Good,AC-01414,1,GPS/GNSS,GPS/GNSS,,1,10
+Item,Add BF-00039,Raw Good,BF-00039,1,,,,11,12
+Item,NTP,Raw Good,EC-01410-DB9,1,BASE,BASE,,1,13
+Item,Add AC-01432,Raw Good,AC-01432,1,DISPLAY,DISPLAY,,1,16
+Item,Add AP-00502-GA,Raw Good,AP-00502-GA,1,ANTENNA,ANTENNA,,1,17
+Item,Add PKG-STND,Raw Good,PKG-STND,1,,,,16,18
+BOM,AP-02007,K6x NTP100-TC,Manufacture,1,,,,,
+Item,Add RS-60000,Raw Good,RS-60000,4,,,"S1,S9,S14,S15 (base board bottom)",15,17
+Item,Add XA-10117,Raw Good,XA-10117,1,,,J25,16,18
+Item,Add BF-00001-BLK,Raw Good,BF-00001-BLK,1,CASE,CASE,,1,12
+Item,Add WH-00062,Raw Good,WH-00062,1,,,,5,7
+Item,Add AS-00005,Raw Good,AS-00005,1,,,,6,8
+Item,Add DL-00006,Raw Good,DL-00006,1,,,D16,13,15
+Item,Add PS-00021-R,Raw Good,PS-00021-R,1,Power,Power,,1,2
+Item,Add PS-00007,Raw Good,PS-00007,1,Power,Power,,2,3
+Item,Add HA-00006,Raw Good,HA-00006,1,,,,2,4
+Item,Add BF-00062,Raw Good,BF-00062,2,,,,3,5
+Item,Create AP-02007,Finished Good,AP-02007,1,,,,1,1
+Item,Add PS-Locking,Raw Good,PS-Locking,1,,,,4,6
+Item,Add DL-00029,Raw Good,DL-00029,1,,,D15,14,16
+Item,PCB,Raw Good,EC-01404,1,TC IN,TC IN (Requires DB9 Adapter),M-TCI,1,9
+Item,Add AC-01432,Raw Good,AC-01432,1,DISPLAY,DISPLAY,,1,10
+Item,Add XA-10103,Raw Good,XA-10103,1,,,P1,9,11
+Item,Add BF-00042,Raw Good,BF-00042,1,,,,11,13
+Item,BASE,Raw Good,EC-01410,1,BASE,BASE,,1,14
+BOM,AP-02009,K6x NTP100-OSC,Manufacture,1,,,,,
+Item,Add BF-00001-BLK,Raw Good,BF-00001-BLK,1,CASE,CASE,,1,10
+Item,Add HA-00020,Raw Good,HA-00020,2,,,,5,7
+Item,Add WH-00062,Raw Good,WH-00062,1,,,,6,8
+Item,Add AS-00005,Raw Good,AS-00005,1,,,,7,9
+Item,Add DL-00006,Raw Good,DL-00006,1,,,D16,12,13
+Item,Add PS-00021-R,Raw Good,PS-00021-R,1,Power,Power,,1,2
+Item,Add PS-00007,Raw Good,PS-00007,1,Power,Power,,2,3
+Item,Add HA-00006,Raw Good,HA-00006,1,,,,2,4
+Item,Add BF-00062,Raw Good,BF-00062,2,,,,3,5
+Item,Create AP-02009,Finished Good,AP-02009,1,,,,1,1
+Item,Add PS-Locking,Raw Good,PS-Locking,1,,,,4,6
+Item,Add DL-00029,Raw Good,DL-00029,1,,,D15,13,14
+Item,Add BF-00039,Raw Good,BF-00039,1,,,,10,11
+Item,NTP,Raw Good,EC-01410-DB9,1,BASE,BASE,,1,12
+Item,Add AC-01432,Raw Good,AC-01432,1,DISPLAY,DISPLAY,,1,15
+BOM,AP-02008,K6x NTP100-GPS,Manufacture,1,,,,,
+Item,Add BF-00001-BLK,Raw Good,BF-00001-BLK,1,CASE,CASE,,1,11
+Item,Add HA-00020,Raw Good,HA-00020,2,,,,5,7
+Item,Add WH-00062,Raw Good,WH-00062,1,,,,6,8
+Item,Add AS-00005,Raw Good,AS-00005,1,,,,7,9
+Item,Add DL-00006,Raw Good,DL-00006,1,,,D16,13,14
+Item,Add PS-00021-R,Raw Good,PS-00021-R,1,Power,Power,,1,2
+Item,Add PS-00007,Raw Good,PS-00007,1,Power,Power,,2,3
+Item,Add HA-00006,Raw Good,HA-00006,4,,,,2,4
+Item,Add BF-00062,Raw Good,BF-00062,2,,,,3,5
+Item,Create AP-02008,Finished Good,AP-02008,1,,,,1,1
+Item,Add PS-Locking,Raw Good,PS-Locking,1,,,,4,6
+Item,Add DL-00029,Raw Good,DL-00029,1,,,D15,14,15
+Item,Add AC-01414,Raw Good,AC-01414,1,GPS/GNSS,GPS/GNSS,,1,10
+Item,Add BF-00039,Raw Good,BF-00039,1,,,,11,12
+Item,NTP,Raw Good,EC-01410-DB9,1,BASE,BASE,,1,13
+Item,Add AC-01432,Raw Good,AC-01432,1,DISPLAY,DISPLAY,,1,16
+Item,Add BF-00022,Raw Good,BF-00022,1,CASE,CASE,,2,19
+Item,Add BF-00117,Raw Good,BF-00117,1,,,,16,20
+Item,Add LM-00024,Raw Good,LM-00024,1,,,,17,21
+Item,Add ZC-00004,Raw Good,ZC-00004,1,,,,18,22
+Item,Add MCR GPS-Basic,Raw Good,GMR GPS-Basic,1,ANTENNA,ANTENNA,,1,17
+Item,Add MCR GPS-Stnd,Raw Good,GMR GPS-Stnd,1,ANTENNA,ANTENNA,,2,18
+BOM,AP-02009-HS,K6x NTP100-OSC/HS,Manufacture,1,,,,,
+Item,Add BF-00001-BLK,Raw Good,BF-00001-BLK,1,CASE,CASE,,1,10
+Item,Add HA-00020,Raw Good,HA-00020,2,,,,5,7
+Item,Add WH-00062,Raw Good,WH-00062,1,,,,6,8
+Item,Add AS-00005,Raw Good,AS-00005,1,,,,7,9
+Item,Add DL-00006,Raw Good,DL-00006,1,,,D16,12,13
+Item,Add PS-00021-R,Raw Good,PS-00021-R,1,Power,Power,,1,2
+Item,Add PS-00007,Raw Good,PS-00007,1,Power,Power,,2,3
+Item,Add HA-00006,Raw Good,HA-00006,1,,,,2,4
+Item,Add BF-00062,Raw Good,BF-00062,2,,,,3,5
+Item,Create AP-02009-HS,Finished Good,AP-02009-HS,1,,,,1,1
+Item,Add PS-Locking,Raw Good,PS-Locking,1,,,,4,6
+Item,Add DL-00029,Raw Good,DL-00029,1,,,D15,13,14
+Item,Add BF-00039,Raw Good,BF-00039,1,,,,10,11
+Item,NTP,Raw Good,EC-01410-DB9,1,BASE,BASE,,1,12
+Item,Add AC-01432,Raw Good,AC-01432,1,DISPLAY,DISPLAY,,1,15
+Item,Add AC-01411,Raw Good,AC-01411,1,HSO,HSO,,1,16
+BOM,AP-02008-HS,K6x NTP100-GPS/HS,Manufacture,1,,,,,
+Item,Add BF-00001-BLK,Raw Good,BF-00001-BLK,1,CASE,CASE,,1,11
+Item,Add HA-00020,Raw Good,HA-00020,2,,,,5,7
+Item,Add WH-00062,Raw Good,WH-00062,1,,,,6,8
+Item,Add AS-00005,Raw Good,AS-00005,1,,,,7,9
+Item,Add DL-00006,Raw Good,DL-00006,1,,,D16,13,14
+Item,Add PS-00021-R,Raw Good,PS-00021-R,1,Power,Power,,1,2
+Item,Add PS-00007,Raw Good,PS-00007,1,Power,Power,,2,3
+Item,Add HA-00006,Raw Good,HA-00006,1,,,,2,4
+Item,Add BF-00062,Raw Good,BF-00062,2,,,,3,5
+Item,Create AP-02008-HS,Finished Good,AP-02008-HS,1,,,,1,1
+Item,Add PS-Locking,Raw Good,PS-Locking,1,,,,4,6
+Item,Add DL-00029,Raw Good,DL-00029,1,,,D15,14,15
+Item,Add AC-01414,Raw Good,AC-01414,1,GPS/GNSS,GPS/GNSS,,1,10
+Item,Add BF-00039,Raw Good,BF-00039,1,,,,11,12
+Item,NTP,Raw Good,EC-01410-DB9,1,BASE,BASE,,1,13
+Item,Add AC-01432,Raw Good,AC-01432,1,DISPLAY,DISPLAY,,1,16
+Item,Add AC-01411,Raw Good,AC-01411,1,HSO,HSO,,1,17
+Item,Add MCR GPS-Basic,Raw Good,GMR GPS-Basic,1,ANTENNA,ANTENNA,,1,18
+Item,Add MCR GPS-Stnd,Raw Good,GMR GPS-Stnd,1,ANTENNA,ANTENNA,,2,19
+BOM,AP-02040,K6x NTP100-GNSS,Manufacture,1,,,,,
+Item,Add BF-00001-BLK,Raw Good,BF-00001-BLK,1,CASE,CASE,,1,11
+Item,Add HA-00020,Raw Good,HA-00020,2,,,,5,7
+Item,Add WH-00062,Raw Good,WH-00062,1,,,,6,8
+Item,Add AS-00005,Raw Good,AS-00005,1,,,,7,9
+Item,Add DL-00006,Raw Good,DL-00006,1,,,D16,13,14
+Item,Add PS-00021-R,Raw Good,PS-00021-R,1,Power,Power,,1,2
+Item,Add PS-00007,Raw Good,PS-00007,1,Power,Power,,2,3
+Item,Add HA-00006,Raw Good,HA-00006,4,,,,2,4
+Item,Add BF-00062,Raw Good,BF-00062,2,,,,3,5
+Item,Create AP-02040,Finished Good,AP-02040,1,,,,1,1
+Item,Add PS-Locking,Raw Good,PS-Locking,1,,,,4,6
+Item,Add DL-00029,Raw Good,DL-00029,1,,,D15,14,15
+Item,Add AC-01415,Raw Good,AC-01415,1,GPS/GNSS,GPS/GNSS,,1,10
+Item,Add BF-00039,Raw Good,BF-00039,1,,,,11,12
+Item,NTP,Raw Good,EC-01410-DB9,1,BASE,BASE,,1,13
+Item,Add AC-01432,Raw Good,AC-01432,1,DISPLAY,DISPLAY,,1,16
+Item,Add BF-00022,Raw Good,BF-00022,1,CASE,CASE,,2,19
+Item,Add BF-00117,Raw Good,BF-00117,1,,,,16,20
+Item,Add LM-00024,Raw Good,LM-00024,1,,,,17,21
+Item,Add ZC-00004,Raw Good,ZC-00004,1,,,,18,22
+Item,Add MCR GPS-Basic,Raw Good,GMR GPS-Basic,1,ANTENNA,ANTENNA,,1,17
+Item,Add MCR GPS-Stnd,Raw Good,GMR GPS-Stnd,1,ANTENNA,ANTENNA,,2,18
