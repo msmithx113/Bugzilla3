@@ -1,0 +1,148 @@
+Flag,Description,Type,Part,Quantity,UOM,InstructionNote,ConfigurationSortOrder,InstructionSortOrder
+BOM,AC-01426,GMR1000 Option: NO DISPLAY,Manufacture,1,Order Quantity,,,
+Item,Create AC-01426,Finished Good,AC-01426,1,ea,,1,1
+Item,Add DL-00006,Raw Good,DL-00006,1,ea,D16,1,2
+Item,Add DL-00029,Raw Good,DL-00029,1,ea,D15,2,3
+Item,Add BF-00300-F0,Raw Good,BF-00300-F0,1,ea,,3,4
+BOM,AC-01434,GMR1000 Option: TCI,Manufacture,1,Never,,,
+Item,Create AC-01434,Finished Good,AC-01434,1,ea,,1,1
+Item,Add AP-00157,Raw Good,AP-00157,1,ea,,1,2
+Item,Add EC-01404,Raw Good,EC-01404,1,ea,,2,3
+BOM,AC-01431,GMR1000 Option: 6-DIGIT DISPLAY (PTP),Manufacture,1,Order Quantity,,,
+Item,Create AC-01431,Finished Good,AC-01431,1,ea,,1,1
+Item,PCB,Raw Good,EC-00182.22A,1,ea,J23-6 DIGIT DISPLAY,1,2
+Item,Add BF-00300-F6P,Raw Good,BF-00300-F6P,1,ea,,2,3
+Item,Add LM-00024,Raw Good,LM-00024,1,ea,,3,4
+BOM,AC-01433,GMR1000 Option: TCO,Manufacture,1,Never,,,
+Item,Create AC-01433,Finished Good,AC-01433,1,ea,,1,1
+Item,Add AP-00157,Raw Good,AP-00157,1,ea,,1,2
+Item,Add EC-01405,Raw Good,EC-01405,1,ea,,2,3
+BOM,AC-00111,GMR5000 Display,Manufacture,1,Order Quantity,,,
+Item,Add DL-00183,Raw Good,DL-00183,13,ea,"DL1,DL2,DL3,DL4,DL5,DL6,DL7,DL8,DL9,DL10,DL11,DL12,DL13",1,1
+Item,Add DL-00182,Raw Good,DL-00182,9,ea,"D1,D2,D3,D4,D5,D6,D7,D8,D9",2,2
+Item,Add BA-00059,Raw Good,BA-00059,2,ea,"J1,J2",3,3
+Item,PCB,Raw Good,BC-00116.10B,1,ea,raw board,4,4
+Item,Create AC-00111,Finished Good,AC-00111,1,ea,,5,5
+BOM,AC-00753-B.14A,GMR5000 [GPS-Buffalo],Manufacture,1,Order Quantity,,,
+Item,Create AC-00753-B,Finished Good,AC-00753-B,1,ea,,1,1
+Item,Add PB-00011,Raw Good,PB-00011,1,ea,BT2,1,2
+Item,PCB,Raw Good,EC-01402-B,1,ea,M-GPS,2,3
+Item,Add XA-10074,Raw Good,XA-10074,1,ea,W4,3,4
+BOM,AC-00753-C.14A,GMR5000 [GPS-CopernicusII],Manufacture,1,Order Quantity,,,
+Item,Create AC-00753,Finished Good,AC-00753-C,1,ea,,1,1
+Item,Add PB-00011,Raw Good,PB-00011,1,ea,BT2,1,2
+Item,PCB,Raw Good,EC-01402-C,1,ea,M-GPS,2,3
+Item,Add XA-10074,Raw Good,XA-10074,1,ea,W4,3,4
+BOM,AC-01425,GMR1000 Option: 10-DIGIT DISPLAY,Manufacture,1,Order Quantity,,,
+Item,Create AC-01425,Finished Good,AC-01425,1,ea,,1,1
+Item,Add DL-00075,Raw Good,DL-00075,1,ea,D18,1,2
+Item,Add AC-00144,Raw Good,xAC-00144,1,ea,J23-10 DIGIT DISPLAY,2,3
+BOM,AC-01424,GMR1000 Option: 6-DIGIT DISPLAY (non PTP),Manufacture,1,Order Quantity,,,
+Item,Create AC-01424,Finished Good,AC-01424,1,ea,,1,1
+Item,PCB,Raw Good,EC-00182.22A,1,ea,J23-6 DIGIT DISPLAY,1,2
+Item,Add BF-00300-F6,Raw Good,BF-00300-F6,1,ea,,2,3
+Item,Add LM-00024,Raw Good,LM-00024,1,ea,,3,4
+BOM,AC-00751,GMR5000 [LAN1-FIBER],Manufacture,1,Order Quantity,,,
+Item,Create AC-00751,Finished Good,AC-00751,1,ea,,1,1
+Item,Add XA-10104,Raw Good,XA-10104,1,ea,P4,1,2
+Item,Add CC-00053,Raw Good,CC-00053,4,ea,"C124,C125,C126,C127",2,3
+Item,Add RS-61300,Raw Good,RS-61300,1,ea,R50,3,4
+BOM,AC-01421,GMR1000 Option: RELAY OUT,Manufacture,1,Order Quantity,,,
+Item,Create AC-01421,Finished Good,AC-01421,1,ea,,1,1
+Item,Add TR-00006,Raw Good,TR-00006,1,ea,LS1,1,2
+Item,Add BA-00002,Raw Good,BA-00002,1,ea,J12,2,3
+Item,Add XA-10014,Raw Good,XA-10014,1,ea,J12 - SET TO N.O.,3,4
+BOM,AC-00756-1,GMR5000 [HSO-Level1],Manufacture,1,Order Quantity,,,
+Item,Create AC-00756-1,Finished Good,AC-00756-1,1,ea,,1,1
+Item,PCB,Raw Good,EC-01400,1,ea,X1,1,2
+Item,Add PC-00009,Raw Good,PC-00009,1,ea,PS1,2,3
+BOM,AC-00757,GMR5000 [HSO-Rb],Manufacture,1,Order Quantity,,,
+Item,Create AC-00757,Finished Good,AC-00757,1,ea,,1,1
+Item,Add HA-00011,Raw Good,HA-00011,5,ea,TIGHTEN SCREWS PRIOR TO SOLDERING PINS,1,2
+Item,Add LO-00043,Raw Good,LO-00043,1,ea,X3,2,3
+Item,Add TT-00001,Raw Good,TT-00001,1,ea,,3,4
+Item,Add HA-10001,Raw Good,HA-10001,5,ea,,4,5
+Item,Add PC-00027,Raw Good,PC-00027,1,ea,PS2,5,6
+Item,Add RV-00002,Raw Good,RV-00002,3,ea,"RV16,RV17,RV18",6,7
+BOM,AC-01422,GMR1000 Option: RELAY IN,Manufacture,1,Order Quantity,,,
+Item,Create AC-01422,Finished Good,AC-01422,1,ea,,1,1
+Item,Add RS-60000,Raw Good,RS-60000,2,ea,"S32,S33",1,2
+BOM,AC-00756-2,GMR5000 [HSO-Level2],Manufacture,1,Order Quantity,,,
+Item,Create AC-00756-2,Finished Good,AC-00756-2,1,ea,,1,1
+Item,Add LO-00041,Raw Good,LO-00041,1,ea,X2,1,2
+Item,Add PC-00009,Raw Good,PC-00009,1,ea,PS1,2,3
+BOM,AC-01419,GMR1000 Option: SYNC IN + PPO,Manufacture,1,Order Quantity,,,
+Item,Create AC-01419,Finished Good,AC-01419,1,ea,,1,1
+Item,PCB,Raw Good,EC-01403,1,ea,M-PULSE,1,2
+Item,Add ZC-00004,Raw Good,ZC-00004,2,ea,"J2 (M-PULSE) to PPS (rear panel), 
+J3 (M-PULSE) to PPO (rear panel)",2,3
+BOM,AC-01420,GMR1000 Option: PPO,Manufacture,1,Order Quantity,,,
+Item,Create AC-01420,Finished Good,AC-01420,1,ea,,1,1
+Item,PCB,Raw Good,EC-01403,1,ea,M-PULSE,1,2
+Item,Add ZC-00004,Raw Good,ZC-00004,1,ea,J3 (M-PULSE) to PPO (rear panel),2,3
+BOM,AC-01417,GMR1000 Option: SYNC IN,Manufacture,1,Order Quantity,,,
+Item,Create AC-01417,Finished Good,AC-01417,1,ea,,1,1
+Item,PCB,Raw Good,EC-01403,1,ea,M-PULSE,1,2
+Item,Add ZC-00004,Raw Good,ZC-00004,1,ea,J2 (M-PULSE) to PPS (rear panel),2,3
+BOM,AC-00755,GMR5000 [TCG],Manufacture,1,Order Quantity,,,
+Item,Create AC-00755,Finished Good,AC-00755,1,ea,,1,1
+Item,PCB,Raw Good,EC-01405,1,ea,M-TCO,1,2
+Item,Add XA-10063,Raw Good,XA-10063,1,ea,J11,2,3
+Item,Add XA-10116,Raw Good,XA-10116,1,ea,J10,3,4
+Item,Add XA-10117,Raw Good,XA-10117,1,ea,J10,4,5
+BOM,AC-01418,GMR1000 Option: PPS OUT + PPO,Manufacture,1,Order Quantity,,,
+Item,Create AC-01418,Finished Good,AC-01418,1,ea,,1,1
+Item,PCB,Raw Good,EC-01403,1,ea,M-PULSE,1,2
+Item,Add ZC-00004,Raw Good,ZC-00004,2,ea,"J1 (M-PULSE) to PPS (rear panel), 
+J3 (M-PULSE) to PPO (rear panel)",2,3
+BOM,AC-00754,GMR5000 [TCR],Manufacture,1,Order Quantity,,,
+Item,Create AC-00754,Finished Good,AC-00754,1,ea,,1,1
+Item,PCB,Raw Good,EC-01404,1,ea,M-TCI,1,2
+Item,Add XA-10116,Raw Good,XA-10116,1,ea,J12,2,3
+Item,Add XA-10063,Raw Good,XA-10063,1,ea,J13,3,4
+Item,Add XA-10117,Raw Good,XA-10117,1,ea,J12,4,5
+BOM,AC-01415,GMR1000 Option: GNSS,Manufacture,1,Order Quantity,,,
+Item,Create AC-01415,Finished Good,AC-01415,1,ea,,1,1
+Item,PCB,Raw Good,EC-01402-B,1,ea,M-GPS,1,2
+Item,Add BA-00002,Raw Good,BA-00002,1,ea,J11,2,3
+Item,Add XA-10014,Raw Good,XA-10014,1,ea,J11,3,4
+Item,Add XA-10122,Raw Good,XA-10122,1,ea,J6,4,5
+Item,Add PB-00011,Raw Good,PB-00011,1,ea,BT2,5,6
+Item,Add ZC-00004,Raw Good,ZC-00004,1,ea,J6 to ANT (rear panel),6,7
+BOM,AC-00752,GMR5000 [LAN2-FIBER],Manufacture,1,Order Quantity,,,
+Item,Create AC-00752,Finished Good,AC-00752,1,ea,,1,1
+Item,Add XA-10104,Raw Good,XA-10104,1,ea,P2,1,2
+Item,Add CC-00053,Raw Good,CC-00053,4,ea,"C120,C121,C122,C123",2,3
+Item,Add RS-61300,Raw Good,RS-61300,1,ea,R27,3,4
+BOM,AC-01416,GMR1000 Option: PPS OUT,Manufacture,1,Order Quantity,,,
+Item,Create AC-01416,Finished Good,AC-01416,1,ea,,1,1
+Item,PCB,Raw Good,EC-01403,1,ea,M-PULSE,1,2
+Item,Add ZC-00004,Raw Good,ZC-00004,1,ea,J1 (M-PULSE) to PPS (rear panel),2,3
+BOM,AC-01413,GMR1000 Option: Level 2 HSO + 10MHz OUT,Manufacture,1,Order Quantity,,,
+Item,Create AC-01413,Finished Good,AC-01413,1,ea,,1,1
+Item,PCB,Raw Good,EC-01401-2,1,ea,M-HSO,1,2
+Item,Add LO-00041,Raw Good,LO-00041,1,ea,X2,2,3
+Item,Add ZC-00004,Raw Good,ZC-00004,1,ea,J1 (M-HSO) to 10MHz OUT (rear panel),3,4
+BOM,AC-01414,GMR1000 Option: GPS,Manufacture,1,Order Quantity,,,
+Item,Create AC-01414,Finished Good,AC-01414,1,ea,,1,1
+Item,PCB,Raw Good,EC-01402-C,1,ea,M-GPS,1,2
+Item,Add BA-00002,Raw Good,BA-00002,1,ea,J11,2,3
+Item,Add XA-10014,Raw Good,XA-10014,1,ea,J11,3,4
+Item,Add XA-10122,Raw Good,XA-10122,1,ea,J6,4,5
+Item,Add PB-00011,Raw Good,PB-00011,1,ea,BT2,5,6
+Item,Add ZC-00004,Raw Good,ZC-00004,1,ea,J6 to ANT (rear panel),6,7
+BOM,AC-01436,GMR1000 Option: SYNC IN + PPO,Manufacture,1,Order Quantity,,,
+Item,Create AC-01436,Finished Good,AC-01436,1,ea,,1,1
+Item,PCB,Raw Good,EC-01403,1,ea,M-PULSE,1,2
+Item,Add ZC-00004,Raw Good,ZC-00004,3,ea,"J1(M-PULSE) to PPS (rear panel),
+J2 (M-PULSE) to 10MHz (rear panel)
+Remove 10MHz text from panel, 
+J3 (M-PULSE) to PPO (rear panel)",2,3
+BOM,AC-01411,GMR1000 Option: Level 2 HSO,Manufacture,1,Order Quantity,,,
+Item,Create AC-01411,Finished Good,AC-01411,1,ea,,1,1
+Item,PCB,Raw Good,EC-01401-2,1,ea,M-HSO,1,2
+Item,Add LO-00041,Raw Good,LO-00041,1,ea,X2,2,3
+BOM,AC-01412,GMR1000 Option: Level 1 HSO + 10MHz OUT,Manufacture,1,Order Quantity,,,
+Item,Create AC-01412,Finished Good,AC-01412,1,ea,,1,1
+Item,PCB,Raw Good,EC-01401-1,1,ea,M-HSO,1,2
+Item,Add ZC-00004,Raw Good,ZC-00004,1,ea,J1 (M-HSO) to 10MHz OUT (rear panel),2,3
